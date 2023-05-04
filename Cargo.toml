@@ -1,0 +1,12 @@
+[package]
+name = "violin"
+version = "0.0.1"
+authors = ["CodeF0x <contact@codef0x.dev>"]
+edition = "2018"
+description = "The same Violin you already knew, but this time actually fast and light weight"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/CodeF0x/violin-but-rust"
+keywords = ["music", "gui", "music player", "fun"]
+
+[dependencies]
